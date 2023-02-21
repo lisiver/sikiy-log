@@ -1,10 +1,10 @@
-# morethan-log
+# sikiy-log
 
 <img width="1715" alt="image" src="https://user-images.githubusercontent.com/72514247/209824600-ca9c8acc-6d2d-4041-9931-43e34b8a9a5f.png">
 
 Next.js static blog using Notion as a Content Management System (CMS). Supports both Blog format Post as well as Page format for Resume. Deployed using Vercel.
 
-[Demo Blog](https://morethan-log.vercel.app) | [Demo Resume](https://morethan-log.vercel.app/resume)
+[Using Blog](https://sikiy-log.vercel.app) | [Using Resume](https://sikiy-log.vercel.app/resume)
 
 ## Features
 
@@ -20,7 +20,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 
 **👀 SEO friendly**
 
-- Dynamically generates OG IMAGEs (thumbnails!) for posts. ([og-image-korean](https://github.com/morethanmin/og-image-korean)).
+- Dynamically generates OG IMAGEs (thumbnails!) for posts. ([og-image-korean](https://github.com/sikiymin/og-image-korean)).
 - Dynamically creates sitemap for posts.
 
 **🤖 Customisable and Supports various plugin through CONFIG**
@@ -31,7 +31,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 ## Getting Started
 
 1. Star this repo.
-2. [Fork](https://github.com/morethanmin/morethan-log/fork) the repo to your Profile.
+2. [Fork](https://github.com/sikiymin/sikiy-log/fork) the repo to your Profile.
 3. Duplicate [this Notion template](https://quasar-season-ed5.notion.site/12c38b5f459d4eb9a759f92fba6cea36?v=2e7962408e3842b2a1a801bf3546edda), and Share to Web.
 4. Copy the Web Link and keep note of the Notion Page Id from the Link which will be in this format [username.notion.site/`NOTION_PAGE_ID`?v=`VERSION_ID`].
 5. Clone your forked repo and then customize `site.config.js` based on your preference.
@@ -58,7 +58,7 @@ Contributors template:
 
 ## Support
 
-morethan-log is an MIT-licensed open source project. It can grow thanks to the sponsors and support from the amazing backers.
+sikiy-log is an MIT-licensed open source project. It can grow thanks to the sponsors and support from the amazing backers.
 
 ### Sponsors
 
