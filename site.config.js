@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "lisiver/sikiy-log",
+      repo: "lisiver/sikiy-log-utterances",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
