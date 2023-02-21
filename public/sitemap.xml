@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://sikiy-log.vercel.app</loc><lastmod>2023-02-21T05:01:15.210Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sikiy-log.vercel.app</loc><lastmod>2023-02-21T05:42:26.473Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sikiy-log.vercel.app/what-is-webpack-vite-babel-swc</loc><lastmod>2023-02-21T05:42:26.473Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sikiy-log.vercel.app/coding-test-study-20230201-2</loc><lastmod>2023-02-21T05:42:26.473Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sikiy-log.vercel.app/coding-test-study-20230201</loc><lastmod>2023-02-21T05:42:26.473Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sikiy-log.vercel.app/coding-test-study-20230131</loc><lastmod>2023-02-21T05:42:26.473Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sikiy-log.vercel.app/coding-test-study-20230130</loc><lastmod>2023-02-21T05:42:26.473Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sikiy-log.vercel.app/docker</loc><lastmod>2023-02-21T05:42:26.473Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://sikiy-log.vercel.app/test</loc><lastmod>2023-02-21T05:42:26.473Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
