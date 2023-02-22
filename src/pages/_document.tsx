@@ -1,6 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from "next/document"
 import CONFIG from "site.config"
-import CJK from "@libs/cjk"
+import Scripts from "../components/Scripts"
 
 class MyDocument extends Document {
   render() {
@@ -36,6 +36,7 @@ class MyDocument extends Document {
               />
             </>
           )}
+        <Scripts />
         </Head>
         <body className="bg-day dark:bg-night">
           <Main />
