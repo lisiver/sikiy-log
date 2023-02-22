@@ -18,9 +18,9 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "blog.sikiy",
+    title: "sikiy-log",
     description: "welcome to sikiy-log!",
-    theme: "dark", // ['light', 'dark', 'auto']
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
