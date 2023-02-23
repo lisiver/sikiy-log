@@ -20,7 +20,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 
 **👀 SEO friendly**
 
-- Dynamically generates OG IMAGEs (thumbnails!) for posts. ([og-image-korean](https://github.com/sikiymin/og-image-korean)).
+- Dynamically generates OG IMAGEs (thumbnails!) for posts. ([og-image-korean](https://github.com/lisiver/og-image-korean)).
 - Dynamically creates sitemap for posts.
 
 **🤖 Customisable and Supports various plugin through CONFIG**
@@ -31,7 +31,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 ## Getting Started
 
 1. Star this repo.
-2. [Fork](https://github.com/sikiymin/sikiy-log/fork) the repo to your Profile.
+2. [Fork](https://github.com/lisiver/sikiy-log/fork) the repo to your Profile.
 3. Duplicate [this Notion template](https://quasar-season-ed5.notion.site/12c38b5f459d4eb9a759f92fba6cea36?v=2e7962408e3842b2a1a801bf3546edda), and Share to Web.
 4. Copy the Web Link and keep note of the Notion Page Id from the Link which will be in this format [username.notion.site/`NOTION_PAGE_ID`?v=`VERSION_ID`].
 5. Clone your forked repo and then customize `site.config.js` based on your preference.
@@ -51,7 +51,9 @@ Check out the [Contributing Guide](.github/CONTRIBUTING.md).
 Contributors template:
 <a href="https://github.com/{uesrname}"><img src="{src}" width="50px" alt="{username}" /></a>&nbsp;&nbsp;
 -->
+
 PENDING
+
 <!-- <p>
 <a href="https://github.com/kvaishak"><img src="https://avatars.githubusercontent.com/u/25531121?v=4" width="50px" alt="kvaishak" /></a>&nbsp;&nbsp;<a href="https://github.com/jhk0530"><img src="https://avatars.githubusercontent.com/u/6457691?s=120&v=4" width="50px" alt="jhk0530" /></a>&nbsp;&nbsp;<a href="https://github.com/i99dev"><img src="https://avatars.githubusercontent.com/u/10709888?s=120&v=4" width="50px" alt="i99dev" /></a>&nbsp;&nbsp;<a href="https://github.com/JaeSang1998"><img src="https://avatars.githubusercontent.com/u/58258782?s=120&v=4" width="50px" alt="JaeSang1998" /></a>&nbsp;&nbsp;<a href="https://github.com/vaishak-kaippanchery-liqid"><img src="https://avatars.githubusercontent.com/u/93523060?s=120&v=4" width="50px" alt="vaishak-kaippanchery-liqid" /></a>&nbsp;&nbsp;<a href="https://github.com/itjustbong"><img src="https://avatars.githubusercontent.com/u/29947261?v=4" width="50px" alt="itjustbong" /></a>&nbsp;&nbsp;<a href="https://github.com/ddarkr"><img src="https://avatars.githubusercontent.com/u/6638675?v=4" width="50px" alt="ddarkr" /></a>&nbsp;&nbsp;
 </p> -->
@@ -66,7 +68,9 @@ sikiy-log is an MIT-licensed open source project. It can grow thanks to the spon
 Sponsors template:
 <a href="https://github.com/{uesrname}"><img src="{src}" width="50px" alt="{username}" /></a>&nbsp;&nbsp;
 -->
+
 PENDING
+
 <!-- <p>
 <a href="https://github.com/siyeons"><img src="https://avatars.githubusercontent.com/u/35549653?v=4" width="50px" alt="siyeons" /></a>&nbsp;&nbsp;
 </p> -->

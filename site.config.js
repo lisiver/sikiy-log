@@ -27,9 +27,19 @@ const CONFIG = {
   link: "https://blog.sikiy.com",
   since: 2023, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://og-image.sikiy.com", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Blog", "Website", "Notion"],
+    keywords: [
+      "Blog",
+      "Website",
+      "Notion",
+      "Front-end",
+      "FE",
+      "Back-end",
+      "BE",
+      "developer",
+      "",
+    ],
   },
 
   // notion configuration (required)
