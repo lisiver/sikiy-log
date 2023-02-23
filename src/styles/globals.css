@@ -89,6 +89,10 @@ nav {
   overflow-x: scroll;
 }
 
+.dark .dark\:filter-invert {
+  filter: invert(1);
+}
+
 @media (max-width: 768px) {
   .sticky-nav-full {
     @apply max-w-full border-b border-opacity-50 border-gray-200 dark:border-gray-600 dark:border-opacity-50;
