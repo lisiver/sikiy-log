@@ -17,7 +17,7 @@ const MobileProfileCard: React.FC<Props> = () => {
             width={90}
             height={90}
             alt="profile_image"
-            className="relative"
+            className="relative dark:filter-invert"
           />
           <div className="h-fit dark:text-white">
             <div className=" text-xl  italic font-bold">
