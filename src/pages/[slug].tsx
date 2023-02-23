@@ -54,7 +54,7 @@ DetailPage.getLayout = function getlayout(page) {
     if (CONFIG.ogImageGenerateURL)
       return `${CONFIG.ogImageGenerateURL}/${encodeURIComponent(
         page.props?.post.title
-      )}.png?theme=dark&md=1&fontSize=125px&images=https%3A%2F%2Fmorethan-log.vercel.app%2Flogo-for-dark-bg.svg`
+      )}.png?theme=dark&md=1&fontSize=125px&images=https://sikiy-log.vercel.app/avatar-dark.svg`
   }
 
   const getMetaConfig = () => {
