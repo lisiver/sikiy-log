@@ -1,6 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from "next/document"
 import CONFIG from "site.config"
-import Scripts from "../components/Scripts"
 
 class MyDocument extends Document {
   render() {
@@ -36,7 +35,24 @@ class MyDocument extends Document {
               />
             </>
           )}
-        <Scripts />
+          {/* google analytics */}
+          {CONFIG?.googleAnalytics?.enable === true &&
+            CONFIG.googleAnalytics.config.measurementId && (
+              <>
+                <script
+                  src={`https://www.googletagmanager.com/gtag/js?id=${CONFIG.googleAnalytics.config.measurementId}`}
+                  async
+                />
+                <script data-nscript="lazyOnload" id="ga">
+                  {`window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', '${CONFIG.googleAnalytics.config.measurementId}', {
+                    page_path: window.location.pathname,
+                  });`}
+                </script>
+              </>
+            )}
         </Head>
         <body className="bg-day dark:bg-night">
           <Main />
